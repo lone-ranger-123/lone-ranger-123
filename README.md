@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**lone-ranger-123/lone-ranger-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jemimah, a passionate software engineering student.
 
-Here are some ideas to get you started:
+🌱 **Currently learning:** [Python, Javascript, Java]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 **Looking to collaborate on:** [AI and Web development]
+
+📫 **How to reach me:** [@loneranger_276<instagram>]
+
+😄 **Pronouns:** [she/her]
+
+⚡ **Fun fact:** [Photophobic]
+
+Feel free to explore my repositories and connect with me!
